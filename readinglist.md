@@ -3,7 +3,11 @@
 ## Compiler tech
 This is a list of recommended reading for understanding the technologies we will be using and extending.
 
-* ...
+### LLL, EVM, Solidity and Serpent
+
+### GHC
+
+### EDSLs
 
 ## Blockchains, Ethereum and smart contracts
 This is a list of recommended reading for understanding the domain our language will be used in. They are meant to be read in order.
