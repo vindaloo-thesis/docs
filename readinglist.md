@@ -10,7 +10,7 @@ This is a list of recommended reading for understanding the technologies we will
 ### EDSLs
 
 ## Blockchains, Ethereum and smart contracts
-This is a list of recommended reading for understanding the domain our language will be used in. They are meant to be read in order.
+This is a list of recommended reading for understanding the domains our language will be used in. They are meant to be read in order.
 
 Most of the links are to the same page, namely the Ethereum white paper. Since it lacks numbered sections, we chose to link directly to the relevant parts. In other words, in these cases it is only necessary to read from the linked position to the next heading; the next section is relevant iff it is linked to from here, including sub-sections.
 
