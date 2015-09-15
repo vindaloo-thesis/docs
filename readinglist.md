@@ -10,10 +10,10 @@ These articles explain what blockchains are through a real-world example: Bitcoi
 These sections explain how blockchain tech can be useful in domains other than money.
 * https://github.com/ethereum/wiki/wiki/White-Paper#alternative-blockchain-applications
 * https://github.com/ethereum/wiki/wiki/White-Paper#scripting
-* https://github.com/ethereum/wiki/wiki/White-Paper#ethereum
 
 ## Ethereum
 Here we take a closer look at some of the technical details of Ethereum, the generalized and Turing-complete blockchain for which we intend to implement a programming language.
+* https://github.com/ethereum/wiki/wiki/White-Paper#ethereum
 * https://github.com/ethereum/wiki/wiki/White-Paper#ethereum-accounts
 * https://github.com/ethereum/wiki/wiki/White-Paper#messages-and-transactions
 * https://github.com/ethereum/wiki/wiki/White-Paper#messages
