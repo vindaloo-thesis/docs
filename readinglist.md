@@ -1,7 +1,7 @@
 # Reading list (under construction)
 
 ## Compiler tech
-This is a list of recommended reading for understanding the technologies we will be using and extending.
+This is a list of recommended reading for understanding the technologies we will be using or extending.
 
 ### LLL, EVM, Solidity and Serpent
 
