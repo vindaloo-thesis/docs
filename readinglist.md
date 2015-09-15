@@ -12,8 +12,8 @@ Most of the links are to the same page, namely the Ethereum white paper. Since i
 
 ### Blockchain basics
 These articles explain what blockchains are through a real-world example: Bitcoin, which was in fact the first example of a blockchain.
-* https://bitcoin.org/bitcoin.pdf (sections 1-5, 9)
-* https://github.com/ethereum/wiki/wiki/White-Paper#bitcoin-as-a-state-transition-system
+* The bitcoin whitepaper, the original description of a blockchain: https://bitcoin.org/bitcoin.pdf (sections 1-5, 9)
+* Another way of viewing bitcoin: https://github.com/ethereum/wiki/wiki/White-Paper#bitcoin-as-a-state-transition-system
 
 ### Evolving blockchain tech
 These sections explain how blockchain tech can be useful in domains other than money.
@@ -21,7 +21,7 @@ These sections explain how blockchain tech can be useful in domains other than m
 * https://github.com/ethereum/wiki/wiki/White-Paper#scripting
 
 ### Ethereum
-Here we take a closer look at some of the technical details of Ethereum, the generalized and Turing-complete blockchain for which we intend to implement a programming language.
+Here we take a closer look at some of the technical details of Ethereum, the blockchain with a Turing-complete VM for which we intend to implement a programming language.
 * https://github.com/ethereum/wiki/wiki/White-Paper#ethereum
 * https://github.com/ethereum/wiki/wiki/White-Paper#ethereum-accounts
 * https://github.com/ethereum/wiki/wiki/White-Paper#messages-and-transactions
@@ -30,4 +30,4 @@ Here we take a closer look at some of the technical details of Ethereum, the gen
 ### Potential applications
 As a bit of an optional aside, this section gives examples of applications that could be implemented on Ethereum, and as such, hopefully also in our programming language.
 * https://github.com/ethereum/wiki/wiki/White-Paper#applications (This is an exception to what was said before: all sub-sections are relevant. Thus, read until you reach the heading "Miscellanea And Concerns".)
-* http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&appname=GBSE_GB_TI_USEN&htmlfid=GBE03620USEN&attachment=GBE03620USEN.PDF (PDF page 10-14, original document page 8-12)
+* IBM uses Ethereum for Internet of things: https://pdf.yt/d/esMcC00dKmdo53-_ (page 4-7, 12)
