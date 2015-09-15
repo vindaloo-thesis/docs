@@ -30,3 +30,4 @@ Here we take a closer look at some of the technical details of Ethereum, the gen
 ### Potential applications
 As a bit of an optional aside, this section gives examples of applications that could be implemented on Ethereum, and as such, hopefully also in our programming language.
 * https://github.com/ethereum/wiki/wiki/White-Paper#applications (This is an exception to what was said before: all sub-sections are relevant. Thus, read until you reach the heading "Miscellanea And Concerns".)
+* http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&appname=GBSE_GB_TI_USEN&htmlfid=GBE03620USEN&attachment=GBE03620USEN.PDF (PDF page 10-14, original document page 8-12)
