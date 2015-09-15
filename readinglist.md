@@ -1,5 +1,5 @@
 # Reading list
-This is a list of recommended reading for understanding the domain our language will be used in. A substantial portion of the links are to the Ethereum white paper: since it lacks numbered sections we have linked directly to the relevant parts. In other words, it is only necessary to read from the linked position to the next heading; the next section is relevant iff it is linked to from here.
+This is a list of recommended reading for understanding the domain our language will be used in. A substantial portion of the links are to the same page, the Ethereum white paper. Since it lacks numbered sections, we chose to link directly to the relevant parts. In other words, in these cases it is only necessary to read from the linked position to the next heading; the next section is relevant iff it is linked to from here.
 
 ## Blockchain basics
 These articles explain what blockchains are through a real-world example: Bitcoin, which was in fact the first example of a blockchain.
